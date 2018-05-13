@@ -1,0 +1,11 @@
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.csprojResolveAssemblyReference.cache
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.csproj.CoreCompileInputs.cache
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.AssemblyInfoInputs.cache
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.AssemblyInfo.cs
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/bin/Debug/netcoreapp2.0/majasdarbs2.deps.json
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/bin/Debug/netcoreapp2.0/majasdarbs2.runtimeconfig.json
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/bin/Debug/netcoreapp2.0/majasdarbs2.runtimeconfig.dev.json
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/bin/Debug/netcoreapp2.0/majasdarbs2.dll
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/bin/Debug/netcoreapp2.0/majasdarbs2.pdb
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.dll
+/Users/ligaklavina/Desktop/day_2 repository/majasdarbs2/majasdarbs2/obj/Debug/netcoreapp2.0/majasdarbs2.pdb
